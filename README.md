@@ -1,6 +1,6 @@
 # camera
 
-An Electron application with Vue and TypeScript
+一个桌面摄像头软件,基于Electron-vite,pinia开发
 
 ## Recommended IDE Setup
 
@@ -8,19 +8,19 @@ An Electron application with Vue and TypeScript
 
 ## Project Setup
 
-### Install
+### Install/初始化
 
 ```bash
 $ pnpm install
 ```
 
-### Development
+### Development/本地开发模式
 
 ```bash
 $ pnpm dev
 ```
 
-### Build
+### Build/打包模式
 
 ```bash
 # For windows
